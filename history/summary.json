@@ -10,31 +10,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 137,
-    "timeDay": 137,
-    "timeWeek": 137,
-    "timeMonth": 137,
-    "timeYear": 137,
+    "time": 109,
+    "timeDay": 109,
+    "timeWeek": 109,
+    "timeMonth": 109,
+    "timeYear": 109,
     "dailyMinutesDown": {}
   },
   {
     "name": "Jelly Party Server",
-    "url": "wss://ws.jelly-party.com/",
+    "url": "wss://ws.jelly-party.com:8080/",
     "icon": "https://favicons.githubusercontent.com/ws.jelly-party.com",
     "slug": "jelly-party-server",
     "status": "down",
-    "uptime": "4.22%",
-    "uptimeDay": "4.22%",
-    "uptimeWeek": "4.22%",
-    "uptimeMonth": "4.22%",
-    "uptimeYear": "4.22%",
+    "uptime": "1.37%",
+    "uptimeDay": "1.37%",
+    "uptimeWeek": "1.37%",
+    "uptimeMonth": "1.37%",
+    "uptimeYear": "1.37%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-03-15": 0
+      "2021-03-15": 2
     }
   }
 ]
