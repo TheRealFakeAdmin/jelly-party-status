@@ -7,8 +7,29 @@ sites:
   - name: Jelly Party Website
     url: https://www.jelly-party.com/
   - name: Jelly Party Server
-    url: wss://ws.jelly-party.com:8080/
-
+    url: https://www.websocketmonitor.com/dashboard/ad-hoc-check
+    method: POST
+    headers:
+      - Accept: application/json, text/javascript, */*; q=0.01
+      - Accept-Encoding: gzip, deflate, br
+      - Accept-Language: en-US,en;q=0.9,de;q=0.8,es;q=0.7
+      - Connection: keep-alive
+      - Content-Length: 354
+      - Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+      - DNT: 1
+      - Host: www.websocketmonitor.com
+      - Origin: https://www.websocketmonitor.com
+      - Referer: https://www.websocketmonitor.com/
+      - sec-ch-ua: "Google Chrome";v="89", "Chromium";v="89", ";Not A Brand";v="99"
+      - sec-ch-ua-mobile: ?0
+      - Sec-Fetch-Dest: empty
+      - Sec-Fetch-Mode: cors
+      - Sec-Fetch-Site: same-origin
+      - sec-gpc: 1
+      - User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36
+      - X-Requested-With: XMLHttpRequest
+    body: "monitor=%7B%22Id%22%3A0%2C%22Endpoint%22%3A%22ws.jelly-party.com%3A8080%22%2C%22Protocol%22%3A%22wss%3A%2F%2F%22%2C%22Timeout%22%3A%2210000%22%2C%22Interval%22%3A%2260%22%2C%22MinDowntimeDuration%22%3A0%2C%22Active%22%3Afalse%2C%22MonitorType%22%3A%22WEB_SOCKET%22%2C%22IgnoreSSLErrors%22%3Afalse%2C%22Advanced%22%3Anull%2C%22EnabledAlarms%22%3A%5B%5D%7D"
+    __dangerous__body_down: '"success":false'
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   cname: status.jelly-party.com
