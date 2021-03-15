@@ -7,7 +7,7 @@ sites:
   - name: Jelly Party Website
     url: https://www.jelly-party.com/
   - name: Jelly Party Server
-    url: wss://ws.jelly-party.com/
+    url: wss://ws.jelly-party.com:8080/
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
