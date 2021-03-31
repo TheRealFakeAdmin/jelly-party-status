@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/www.jelly-party.com",
     "slug": "jelly-party-website",
     "status": "up",
-    "uptime": "99.40%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.40%",
-    "uptimeYear": "99.40%",
-    "time": 149,
-    "timeDay": 190,
-    "timeWeek": 175,
-    "timeMonth": 149,
-    "timeYear": 149,
-    "dailyMinutesDown": {
-      "2021-03-15": 123
-    }
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 189,
+    "timeDay": 911,
+    "timeWeek": 291,
+    "timeMonth": 189,
+    "timeYear": 189,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Jelly Party Server",
@@ -25,16 +23,16 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "jelly-party-server",
     "status": "up",
-    "uptime": "99.40%",
+    "uptime": "99.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.40%",
-    "uptimeYear": "99.40%",
-    "time": 147,
-    "timeDay": 163,
-    "timeWeek": 131,
-    "timeMonth": 147,
-    "timeYear": 147,
+    "uptimeMonth": "99.44%",
+    "uptimeYear": "99.44%",
+    "time": 146,
+    "timeDay": 134,
+    "timeWeek": 125,
+    "timeMonth": 146,
+    "timeYear": 146,
     "dailyMinutesDown": {
       "2021-03-15": 123
     }
